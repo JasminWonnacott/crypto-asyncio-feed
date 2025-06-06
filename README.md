@@ -1,6 +1,6 @@
 # Coinbase BTC-USD Candle Scraper
 
-This project collects historical 5-minute candlestick data for Bitcoin from Coinbase's public API and stores it in a PostgreSQL database. It's built using Python, asyncio, aiohttp, and asyncpg.
+This project collects 365 days worth of historical 5-minute candlestick data for Bitcoin from Coinbase's public API and stores it in a PostgreSQL database. It's built using Python, asyncio, aiohttp, and asyncpg.
 
 Features
 
